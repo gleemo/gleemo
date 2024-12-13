@@ -10,8 +10,8 @@
 
 - 👨🏽‍💻 I’m currently working on Upwork;
 - 🌱 I’m currently learning Data Science; 
-- 👯 I’m looking to collaborate on web development 🤝;
-- 🤔 I’m looking for help with Design Pattern 😭;
+- 👯 I’m looking to collaborate on AI 🤝;
+- 🤔 I’m looking for help with Design 😭;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I have 2+ sons;
 - 📫 How to reach me: gleemo715@gmail.com;
