@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Hi, I'm Ronnie James, a Developer 🚀 from California.
+## Hi, I'm Joseph, a Developer 🚀 from Georgia.
 
 
 <!-- Talking about you -->
@@ -14,7 +14,6 @@
 - 🤔 I’m looking for help with Design 😭;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I have 2+ sons;
-- 📫 How to reach me: gleemo715@gmail.com;
 
 **Languages and Tools:** 
 
